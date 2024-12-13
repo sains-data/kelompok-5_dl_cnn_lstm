@@ -1,0 +1,1243 @@
+video_id,label,frames,label_id,shape,format
+168,Mengetuk Jari,37,1,"(100, 176)",JPEG
+244,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+346,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+358,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+752,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+941,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+968,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+1077,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+1100,Mengetuk Jari,37,1,"(100, 132)",JPEG
+1144,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+1454,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+1462,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+1530,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+1550,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+1618,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+1673,Mengetuk Jari,37,1,"(100, 176)",JPEG
+1735,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+2078,Mengetuk Jari,37,1,"(100, 176)",JPEG
+2358,Mengetuk Jari,37,1,"(100, 176)",JPEG
+2411,Mengetuk Jari,37,1,"(100, 176)",JPEG
+2512,Mengetuk Jari,37,1,"(100, 176)",JPEG
+3110,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+3112,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+3138,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+3156,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+3688,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+3723,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+3762,Mengetuk Jari,37,1,"(100, 176)",JPEG
+3878,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+3974,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+4002,Mengetuk Jari,37,1,"(100, 176)",JPEG
+4064,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+4129,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+4337,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+4525,Mengetuk Jari,37,1,"(100, 176)",JPEG
+4567,Tidak ada gerakan,37,2,"(100, 142)",JPEG
+4589,Mengetuk Jari,37,1,"(100, 176)",JPEG
+4704,Mengetuk Jari,37,1,"(100, 176)",JPEG
+4781,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+4824,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+4975,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+5002,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+5361,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+5536,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+5569,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+5787,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+5880,Mengetuk Jari,37,1,"(100, 176)",JPEG
+5961,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+6009,Mengetuk Jari,37,1,"(100, 176)",JPEG
+6376,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+6381,Mengetuk Jari,37,1,"(100, 176)",JPEG
+6613,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+6622,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+7042,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+7051,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+7091,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+7145,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+7319,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+7339,Mengetuk Jari,37,1,"(100, 176)",JPEG
+7386,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+7458,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+7500,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+8191,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+8285,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+8348,Mengetuk Jari,37,1,"(100, 176)",JPEG
+8427,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+8497,Mengetuk Jari,37,1,"(100, 176)",JPEG
+8522,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+8529,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+8740,Mengetuk Jari,37,1,"(100, 176)",JPEG
+8836,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+8879,Mengetuk Jari,37,1,"(100, 176)",JPEG
+9097,Mengetuk Jari,37,1,"(100, 176)",JPEG
+9296,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+9336,Mengetuk Jari,37,1,"(100, 176)",JPEG
+9373,Mengetuk Jari,37,1,"(100, 132)",JPEG
+9466,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+9492,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+9493,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+9539,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+9775,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+9810,Mengetuk Jari,37,1,"(100, 176)",JPEG
+9866,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+10026,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+10102,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+10109,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+10235,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+10334,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+10354,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+10371,Mengetuk Jari,37,1,"(100, 176)",JPEG
+10718,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+10752,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+10764,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+10788,Mengetuk Jari,37,1,"(100, 176)",JPEG
+10836,Mengetuk Jari,37,1,"(100, 176)",JPEG
+10965,Mengetuk Jari,37,1,"(100, 176)",JPEG
+11116,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+11282,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+11302,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+11409,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+11725,Mengetuk Jari,37,1,"(100, 176)",JPEG
+11793,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+11818,Mengetuk Jari,37,1,"(100, 132)",JPEG
+12268,Mengetuk Jari,37,1,"(100, 176)",JPEG
+12409,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+12421,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+12455,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+12661,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+12709,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+12790,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+12808,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+12836,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+12856,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+13166,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+13177,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+13190,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+13356,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+13573,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+13915,Mengetuk Jari,37,1,"(100, 176)",JPEG
+13968,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+14092,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+14302,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+14306,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+14331,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+14740,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+15236,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+15434,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+15514,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+15717,Mengetuk Jari,37,1,"(100, 176)",JPEG
+15741,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+15801,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+15855,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+15972,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+16069,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+16163,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+16185,Mengetuk Jari,37,1,"(100, 176)",JPEG
+16246,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+16606,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+16702,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+16778,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+16964,Mengetuk Jari,37,1,"(100, 132)",JPEG
+16965,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+17063,Mengetuk Jari,37,1,"(100, 176)",JPEG
+17204,Mengetuk Jari,37,1,"(100, 176)",JPEG
+17229,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+17249,Mengetuk Jari,37,1,"(100, 176)",JPEG
+17425,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+17638,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+17786,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+17924,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+18282,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+18346,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+18463,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+18577,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+18621,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+18705,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+18982,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+19075,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+19326,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+19362,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+19410,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+19521,Mengetuk Jari,37,1,"(100, 176)",JPEG
+19585,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+19596,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+19706,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+19737,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+19763,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+20002,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+20045,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+20095,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+20123,Mengetuk Jari,37,1,"(100, 176)",JPEG
+20213,Mengetuk Jari,37,1,"(100, 176)",JPEG
+20216,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+20275,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+20629,Mengetuk Jari,37,1,"(100, 176)",JPEG
+20836,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+21059,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+21085,Mengetuk Jari,37,1,"(100, 176)",JPEG
+21283,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+21351,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+21411,Mengetuk Jari,37,1,"(100, 176)",JPEG
+21562,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+21723,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+21958,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+22158,Mengetuk Jari,37,1,"(100, 132)",JPEG
+22173,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+22281,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+22394,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+22509,Mengetuk Jari,37,1,"(100, 176)",JPEG
+22529,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+22615,Mengetuk Jari,37,1,"(100, 132)",JPEG
+22873,Mengetuk Jari,37,1,"(100, 176)",JPEG
+23200,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+23368,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+23387,Mengetuk Jari,37,1,"(100, 176)",JPEG
+23399,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+23524,Mengetuk Jari,37,1,"(100, 176)",JPEG
+23813,Mengetuk Jari,37,1,"(100, 176)",JPEG
+24117,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+24168,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+24178,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+24320,Mengetuk Jari,37,1,"(100, 176)",JPEG
+24427,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+24574,Mengetuk Jari,37,1,"(100, 176)",JPEG
+24779,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+25025,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+25238,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+25290,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+25440,Mengetuk Jari,37,1,"(100, 176)",JPEG
+25445,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+25712,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+25866,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+25974,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+26008,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+26016,Mengetuk Jari,37,1,"(100, 176)",JPEG
+26237,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+26406,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+26546,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+26566,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+26638,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+26722,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+26727,Mengetuk Jari,37,1,"(100, 176)",JPEG
+26795,Mengetuk Jari,37,1,"(100, 176)",JPEG
+27336,Mengetuk Jari,37,1,"(100, 176)",JPEG
+27487,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+27629,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+27749,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+27809,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+27853,Mengetuk Jari,37,1,"(100, 176)",JPEG
+27892,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+27951,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+28074,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+28123,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+28196,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+28258,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+28390,Mengetuk Jari,37,1,"(100, 176)",JPEG
+28412,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+28449,Mengetuk Jari,37,1,"(100, 176)",JPEG
+29176,Mengetuk Jari,37,1,"(100, 132)",JPEG
+29265,Mengetuk Jari,37,1,"(100, 176)",JPEG
+29643,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+29823,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+29915,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+30018,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+30042,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+30196,Mengetuk Jari,37,1,"(100, 176)",JPEG
+30276,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+30640,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+30807,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+30858,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+30963,Mengetuk Jari,37,1,"(100, 176)",JPEG
+31035,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+31036,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+31057,Mengetuk Jari,37,1,"(100, 176)",JPEG
+31119,Mengetuk Jari,37,1,"(100, 176)",JPEG
+31365,Mengetuk Jari,37,1,"(100, 176)",JPEG
+31680,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+31708,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+31818,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+32040,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+32254,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+32382,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+32453,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+32526,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+32568,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+32605,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+32635,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+33072,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+33245,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+33269,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+33308,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+33441,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+33483,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+33552,Mengetuk Jari,37,1,"(100, 176)",JPEG
+33582,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+33637,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+33737,Mengetuk Jari,37,1,"(100, 176)",JPEG
+33767,Mengetuk Jari,37,1,"(100, 132)",JPEG
+33915,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+34194,Mengetuk Jari,37,1,"(100, 176)",JPEG
+34285,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+34423,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+34471,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+34491,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+34531,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+34557,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+34788,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+34799,Mengetuk Jari,37,1,"(100, 176)",JPEG
+34802,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+34862,Mengetuk Jari,37,1,"(100, 176)",JPEG
+34871,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+34915,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+35089,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+35294,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+35529,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+35559,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+35592,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+35609,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+35708,Mengetuk Jari,37,1,"(100, 176)",JPEG
+35723,Mengetuk Jari,37,1,"(100, 176)",JPEG
+36053,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+36110,Mengetuk Jari,37,1,"(100, 176)",JPEG
+36134,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+36280,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+36394,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+36423,Mengetuk Jari,37,1,"(100, 176)",JPEG
+36698,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+36935,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+37024,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+37094,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+37112,Mengetuk Jari,37,1,"(100, 176)",JPEG
+37320,Mengetuk Jari,37,1,"(100, 176)",JPEG
+37325,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+37343,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+37430,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+37486,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+37559,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+37623,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+37680,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+37781,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+37818,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+37868,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+37944,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+37967,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+38034,Mendorong Tangan Menjauh,37,5,"(100, 100)",JPEG
+38200,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+38380,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+38408,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+38820,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+38891,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+38985,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+39332,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+39367,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+39377,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+39395,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+39399,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+39436,Mengetuk Jari,37,1,"(100, 176)",JPEG
+39562,Mengetuk Jari,37,1,"(100, 176)",JPEG
+39629,Mengetuk Jari,37,1,"(100, 176)",JPEG
+39659,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+39725,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+39804,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+39887,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+39913,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+40213,Mengetuk Jari,37,1,"(100, 176)",JPEG
+40263,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+40294,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+40533,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+40605,Mengetuk Jari,37,1,"(100, 176)",JPEG
+40728,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+40920,Mengetuk Jari,37,1,"(100, 176)",JPEG
+40956,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+41148,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+41199,Mengetuk Jari,37,1,"(100, 176)",JPEG
+41281,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+41507,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+41616,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+41694,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+41734,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+41969,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+41982,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+42160,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+42180,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+42298,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+42409,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+42546,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+42634,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+42743,Mengetuk Jari,37,1,"(100, 176)",JPEG
+43068,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+43178,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+43250,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+43315,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+43373,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+43545,Mengetuk Jari,37,1,"(100, 176)",JPEG
+43695,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+43905,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+44028,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+44118,Mengetuk Jari,37,1,"(100, 176)",JPEG
+44357,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+44430,Mengetuk Jari,37,1,"(100, 176)",JPEG
+44633,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+44671,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+44857,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+44891,Mengetuk Jari,37,1,"(100, 176)",JPEG
+44918,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+44956,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+45326,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+45338,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+45439,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+45460,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+45484,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+45632,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+45968,Mengetuk Jari,37,1,"(100, 176)",JPEG
+46132,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+46165,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+46289,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+46324,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+46337,Mengetuk Jari,37,1,"(100, 176)",JPEG
+46339,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+46377,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+46395,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+46426,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+46460,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+46558,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+47020,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+47023,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+47082,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+47290,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+47655,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+47757,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+47918,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+48322,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+48351,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+48778,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+48786,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+49122,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+49457,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+49462,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+49671,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+49784,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+49934,Mengetuk Jari,37,1,"(100, 132)",JPEG
+50112,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+50434,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+50538,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+50633,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+50744,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+50822,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+50838,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+51070,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+51455,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+51732,Mengetuk Jari,37,1,"(100, 176)",JPEG
+51778,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+51832,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+51919,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+52120,Mengetuk Jari,37,1,"(100, 132)",JPEG
+52139,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+52320,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+52440,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+52549,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+53033,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+53042,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+53312,Mengetuk Jari,37,1,"(100, 176)",JPEG
+53359,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+53471,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+53714,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+53747,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+54213,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+54391,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+54609,Mengetuk Jari,37,1,"(100, 176)",JPEG
+54830,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+55160,Tidak ada gerakan,37,2,"(100, 142)",JPEG
+55266,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+55281,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+55339,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+55408,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+55519,Mengetuk Jari,37,1,"(100, 176)",JPEG
+55644,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+55844,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+55874,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+56522,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+56529,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+56587,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+56757,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+56900,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+57035,Mengetuk Jari,37,1,"(100, 176)",JPEG
+57634,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+57744,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+57809,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+57839,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+57864,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+58163,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+58215,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+58349,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+58379,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+58613,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+58803,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+58907,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+59178,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+59215,Mengetuk Jari,37,1,"(100, 176)",JPEG
+59292,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+59389,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+59424,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+59465,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+59487,Mengetuk Jari,37,1,"(100, 176)",JPEG
+59721,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+59785,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+60104,Mengetuk Jari,37,1,"(100, 176)",JPEG
+60143,Mengetuk Jari,37,1,"(100, 176)",JPEG
+60232,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+60252,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+60253,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+60551,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+60728,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+60742,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+61141,Mengetuk Jari,37,1,"(100, 176)",JPEG
+61197,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+61399,Mengetuk Jari,37,1,"(100, 176)",JPEG
+61542,Mengetuk Jari,37,1,"(100, 176)",JPEG
+61561,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+61571,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+61594,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+61612,Mengetuk Jari,37,1,"(100, 176)",JPEG
+61688,Mengetuk Jari,37,1,"(100, 176)",JPEG
+61781,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+62007,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+62033,Mengetuk Jari,37,1,"(100, 176)",JPEG
+62150,Mengetuk Jari,37,1,"(100, 176)",JPEG
+62289,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+62294,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+62360,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+62395,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+62570,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+62665,Mengetuk Jari,37,1,"(100, 176)",JPEG
+62812,Mengetuk Jari,37,1,"(100, 176)",JPEG
+62933,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+63152,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+63192,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+63298,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+63408,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+63417,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+63506,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+63667,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+63671,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+63799,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+63838,Mengetuk Jari,37,1,"(100, 176)",JPEG
+63882,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+63954,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+63961,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+63973,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+63985,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+64509,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+64527,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+64734,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+64917,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+64984,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+64990,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+65009,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+65043,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+65201,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+65238,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+65497,Mengetuk Jari,37,1,"(100, 132)",JPEG
+65518,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+65862,Mengetuk Jari,37,1,"(100, 176)",JPEG
+65893,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+65970,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+66011,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+66101,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+66216,Mengetuk Jari,37,1,"(100, 176)",JPEG
+66229,Mengetuk Jari,37,1,"(100, 176)",JPEG
+66338,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+66374,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+67021,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+67059,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+67119,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+67527,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+67647,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+68105,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+68277,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+68353,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+68399,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+68404,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+68668,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+68706,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+68746,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+69170,Mengetuk Jari,37,1,"(100, 176)",JPEG
+69284,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+69337,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+69363,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+69670,Mengetuk Jari,37,1,"(100, 176)",JPEG
+69725,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+69913,Mengetuk Jari,37,1,"(100, 132)",JPEG
+69961,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+70085,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+70136,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+70152,Mengetuk Jari,37,1,"(100, 176)",JPEG
+70232,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+70502,Mengetuk Jari,37,1,"(100, 176)",JPEG
+70551,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+71137,Mengetuk Jari,37,1,"(100, 176)",JPEG
+71143,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+71410,Mengetuk Jari,37,1,"(100, 176)",JPEG
+71469,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+71556,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+71705,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+71740,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+71776,Mengetuk Jari,37,1,"(100, 176)",JPEG
+71924,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+72135,Menarik Tangan Masuk,37,3,"(100, 142)",JPEG
+72148,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+72170,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+72196,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+72316,Mengetuk Jari,37,1,"(100, 176)",JPEG
+72605,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+73088,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+73132,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+73242,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+73506,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+73658,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+73694,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+73728,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+74002,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+74076,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+74124,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+74301,Mengetuk Jari,37,1,"(100, 176)",JPEG
+74404,Mengetuk Jari,37,1,"(100, 176)",JPEG
+74541,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+74808,Mengetuk Jari,37,1,"(100, 176)",JPEG
+74844,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+75106,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+75337,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+75422,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+75549,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+75646,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+75809,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+75863,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+75889,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+75956,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+76013,Mengetuk Jari,37,1,"(100, 176)",JPEG
+76191,Mengetuk Jari,37,1,"(100, 176)",JPEG
+76195,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+76216,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+76383,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+76552,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+76617,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+76624,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+76667,Mengetuk Jari,37,1,"(100, 176)",JPEG
+76872,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+76942,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+76954,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+77120,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+77218,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+77278,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+77435,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+77492,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+77549,Mengetuk Jari,37,1,"(100, 176)",JPEG
+77592,Mengetuk Jari,37,1,"(100, 176)",JPEG
+77784,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+78133,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+78243,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+78250,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+78370,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+78430,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+78605,Mengetuk Jari,37,1,"(100, 176)",JPEG
+78646,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+78680,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+78730,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+78991,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+79231,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+79366,Mengetuk Jari,37,1,"(100, 176)",JPEG
+79427,Mengetuk Jari,37,1,"(100, 176)",JPEG
+79532,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+79605,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+79636,Mengetuk Jari,37,1,"(100, 132)",JPEG
+79786,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+79841,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+79862,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+79880,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+79968,Mengetuk Jari,37,1,"(100, 176)",JPEG
+80053,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+80364,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+80433,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+80518,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+80563,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+80911,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+80932,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+81135,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+81249,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+81339,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+81931,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+82143,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+82230,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+82277,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+82282,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+82368,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+82605,Mengetuk Jari,37,1,"(100, 176)",JPEG
+82648,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+82767,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+82902,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+83042,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+83055,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+83057,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+83293,Mengetuk Jari,37,1,"(100, 176)",JPEG
+83419,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+83590,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+83610,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+83711,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+83794,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+83799,Mengetuk Jari,37,1,"(100, 176)",JPEG
+84211,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+84446,Mengetuk Jari,37,1,"(100, 176)",JPEG
+84502,Mengetuk Jari,37,1,"(100, 176)",JPEG
+84503,Mengetuk Jari,37,1,"(100, 176)",JPEG
+84533,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+84552,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+84643,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+84656,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+84888,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+85064,Mengetuk Jari,37,1,"(100, 176)",JPEG
+85279,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+85374,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+85497,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+85565,Mengetuk Jari,37,1,"(100, 176)",JPEG
+85567,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+85591,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+85658,Mengetuk Jari,37,1,"(100, 176)",JPEG
+85827,Mengetuk Jari,37,1,"(100, 176)",JPEG
+85989,Mengetuk Jari,37,1,"(100, 176)",JPEG
+86080,Mengetuk Jari,37,1,"(100, 176)",JPEG
+86505,Mengetuk Jari,37,1,"(100, 176)",JPEG
+86524,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+86657,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+86675,Mengetuk Jari,37,1,"(100, 176)",JPEG
+86716,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+86914,Mengetuk Jari,37,1,"(100, 176)",JPEG
+87100,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+87153,Mengetuk Jari,37,1,"(100, 176)",JPEG
+87289,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+87376,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+87547,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+87583,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+87680,Mengetuk Jari,37,1,"(100, 176)",JPEG
+87823,Mengetuk Jari,37,1,"(100, 176)",JPEG
+87934,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+87943,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+88064,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+88132,Mengetuk Jari,37,1,"(100, 176)",JPEG
+88167,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+88214,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+88248,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+88415,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+88481,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+88515,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+88551,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+88579,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+88617,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+88643,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+88807,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+89030,Mengetuk Jari,37,1,"(100, 176)",JPEG
+89132,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+89416,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+89726,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+89733,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+89882,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+90073,Mengetuk Jari,37,1,"(100, 176)",JPEG
+90271,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+90501,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+90652,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+90684,Mengetuk Jari,37,1,"(100, 176)",JPEG
+90745,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+90796,Mengetuk Jari,37,1,"(100, 176)",JPEG
+90844,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+90941,Mengetuk Jari,37,1,"(100, 176)",JPEG
+91181,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+91201,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+91522,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+91539,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+91583,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+91637,Mengetuk Jari,37,1,"(100, 176)",JPEG
+91714,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+91886,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+91945,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+92005,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+92093,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+92112,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+92490,Mengetuk Jari,37,1,"(100, 176)",JPEG
+92522,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+92569,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+92763,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+93178,Mengetuk Jari,37,1,"(100, 176)",JPEG
+93325,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+93334,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+93610,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+93745,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+93904,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+93906,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+94037,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+94074,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+94103,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+94105,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+94226,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+94306,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+94312,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+94367,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+94451,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+94477,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+94495,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+94710,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+94740,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+94950,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+95136,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+95167,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+95230,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+95316,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+95431,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+95661,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+95896,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+95916,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+95917,Mengetuk Jari,37,1,"(100, 176)",JPEG
+95937,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+96098,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+96213,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+96218,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+96298,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+96447,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+96504,Mengetuk Jari,37,1,"(100, 132)",JPEG
+96604,Mengetuk Jari,37,1,"(100, 176)",JPEG
+96666,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+96691,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+96735,Mengetuk Jari,37,1,"(100, 176)",JPEG
+96838,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+97040,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+97044,Mengetuk Jari,37,1,"(100, 142)",JPEG
+97052,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+97120,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+97281,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+97344,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+97681,Mengetuk Jari,37,1,"(100, 176)",JPEG
+98068,Mengetuk Jari,37,1,"(100, 176)",JPEG
+98082,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+98392,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+98428,Mengetuk Jari,37,1,"(100, 176)",JPEG
+98511,Mengetuk Jari,37,1,"(100, 176)",JPEG
+98544,Mengetuk Jari,37,1,"(100, 176)",JPEG
+98596,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+98611,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+98643,Mengetuk Jari,37,1,"(100, 176)",JPEG
+98890,Mengetuk Jari,37,1,"(100, 176)",JPEG
+98945,Mengetuk Jari,37,1,"(100, 176)",JPEG
+99035,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+99396,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+99584,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+99590,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+99645,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+99793,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+100001,Mengetuk Jari,37,1,"(100, 176)",JPEG
+100263,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+100276,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+100433,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+100505,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+100654,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+100762,Mengetuk Jari,37,1,"(100, 176)",JPEG
+100823,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+100993,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+101028,Mengetuk Jari,37,1,"(100, 176)",JPEG
+101047,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+101115,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+101294,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+101306,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+101508,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+101835,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+102176,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+102215,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+102444,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+102484,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+102722,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+103001,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+103058,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+103294,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+103354,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+103633,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+103733,Mengetuk Jari,37,1,"(100, 176)",JPEG
+103858,Mengetuk Jari,37,1,"(100, 176)",JPEG
+103900,Menarik Tangan Masuk,37,3,"(100, 100)",JPEG
+104239,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+104404,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+104466,Mengetuk Jari,37,1,"(100, 176)",JPEG
+104475,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+104495,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+104517,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+104595,Mengetuk Jari,37,1,"(100, 176)",JPEG
+104650,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+104658,Mengetuk Jari,37,1,"(100, 176)",JPEG
+104669,Mengetuk Jari,37,1,"(100, 176)",JPEG
+104765,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+104869,Mengetuk Jari,37,1,"(100, 132)",JPEG
+105216,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+105523,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+105801,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+105829,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+106101,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+106169,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+106402,Mengetuk Jari,37,1,"(100, 176)",JPEG
+106459,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+106548,Mengetuk Jari,37,1,"(100, 176)",JPEG
+106829,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+106833,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+107088,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+107429,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+107500,Mengetuk Jari,37,1,"(100, 176)",JPEG
+108114,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+108186,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+108227,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+108272,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+108281,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+108291,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+108322,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+108762,Mengetuk Jari,37,1,"(100, 176)",JPEG
+108763,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+108765,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+109069,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+109211,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+109227,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+109307,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+109441,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+109466,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+109623,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+109757,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+110084,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+110545,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+110725,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+110921,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+110952,Mengetuk Jari,37,1,"(100, 176)",JPEG
+110996,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+111089,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+111536,Mengetuk Jari,37,1,"(100, 176)",JPEG
+111757,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+111929,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+112025,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+112203,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+112218,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+112555,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+112741,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+112800,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+112899,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+112936,Mengetuk Jari,37,1,"(100, 176)",JPEG
+113031,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+113033,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+113497,Mengetuk Jari,37,1,"(100, 176)",JPEG
+113520,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+113678,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+114061,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+114316,Mengetuk Jari,37,1,"(100, 132)",JPEG
+114378,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+114556,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+114736,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+114764,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+114766,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+114818,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+114873,Mengetuk Jari,37,1,"(100, 176)",JPEG
+114916,Mengetuk Jari,37,1,"(100, 176)",JPEG
+114928,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+114936,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+114963,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+115080,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+115156,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+115320,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+115335,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+115389,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+115447,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+115860,Mengetuk Jari,37,1,"(100, 176)",JPEG
+115946,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+115954,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+115998,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+116141,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+116418,Mengetuk Jari,37,1,"(100, 176)",JPEG
+116458,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+116502,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+116800,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+116859,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+116947,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+117050,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+117158,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+117271,Mengetuk Jari,37,1,"(100, 176)",JPEG
+117436,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+117708,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+117734,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+118157,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+118866,Mengetuk Jari,37,1,"(100, 176)",JPEG
+118894,Mengetuk Jari,37,1,"(100, 132)",JPEG
+118971,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+118972,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+119037,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+119401,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+119425,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+119502,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+119540,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+119593,Mengetuk Jari,37,1,"(100, 176)",JPEG
+119753,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+119994,Mengetuk Jari,37,1,"(100, 176)",JPEG
+120080,Mengetuk Jari,37,1,"(100, 176)",JPEG
+120145,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+120169,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+120520,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+120542,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+120695,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+120710,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+120951,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+120991,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+120993,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+121070,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+121408,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+121454,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+121541,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+121608,Mengetuk Jari,37,1,"(100, 176)",JPEG
+121751,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+121760,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+121936,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+121988,Mengetuk Jari,37,1,"(100, 132)",JPEG
+122297,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+122336,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+122346,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+122365,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+122417,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+122441,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+122722,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+122752,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+122778,Mengetuk Jari,37,1,"(100, 132)",JPEG
+122916,Mengetuk Jari,37,1,"(100, 176)",JPEG
+122990,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+122998,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+123024,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+123170,Mengetuk Jari,37,1,"(100, 176)",JPEG
+123189,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+123470,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+123551,Mengetuk Jari,37,1,"(100, 176)",JPEG
+123557,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+123937,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+124159,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+124215,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+124260,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+124352,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+124659,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+124915,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+124971,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+125009,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+125026,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+125125,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+125228,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+125251,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+125266,Mengetuk Jari,37,1,"(100, 142)",JPEG
+125421,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+125565,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+125593,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+125735,Mengetuk Jari,37,1,"(100, 176)",JPEG
+125770,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+125903,Mengetuk Jari,37,1,"(100, 176)",JPEG
+125955,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+126118,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+126148,Mengetuk Jari,37,1,"(100, 176)",JPEG
+126214,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+126217,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+126332,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+126397,Mengetuk Jari,37,1,"(100, 176)",JPEG
+126407,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+126501,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+126526,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+126528,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+126612,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+126679,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+126874,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+126910,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+127013,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+127032,Mengetuk Jari,37,1,"(100, 176)",JPEG
+127068,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+127148,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+127429,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+127578,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+127977,Mengetuk Jari,37,1,"(100, 176)",JPEG
+128076,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+128183,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+128536,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+128786,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+128790,Mengetuk Jari,37,1,"(100, 176)",JPEG
+128870,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+128959,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+129045,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+129138,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+129320,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+129493,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+129529,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+129568,Mengetuk Jari,37,1,"(100, 176)",JPEG
+129854,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+130043,Mengetuk Jari,37,1,"(100, 176)",JPEG
+130089,Mengetuk Jari,37,1,"(100, 176)",JPEG
+130158,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+130197,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+130473,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+130481,Mengetuk Jari,37,1,"(100, 176)",JPEG
+130663,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+130721,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+130735,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+130927,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+130984,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+131274,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+131387,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+131870,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+131907,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+131985,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+132027,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+132035,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+132110,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+132153,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+132390,Mengetuk Jari,37,1,"(100, 176)",JPEG
+132538,Mengetuk Jari,37,1,"(100, 176)",JPEG
+132565,Mengetuk Jari,37,1,"(100, 176)",JPEG
+132602,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+132651,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+132845,Mengetuk Jari,37,1,"(100, 176)",JPEG
+132993,Mengetuk Jari,37,1,"(100, 176)",JPEG
+133312,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+133459,Mengetuk Jari,37,1,"(100, 176)",JPEG
+133494,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+133518,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+133525,Mengetuk Jari,37,1,"(100, 176)",JPEG
+133529,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+133689,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+133823,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+133901,Mendorong Tangan Menjauh,37,5,"(100, 142)",JPEG
+134068,Mengetuk Jari,37,1,"(100, 176)",JPEG
+134088,Mengetuk Jari,37,1,"(100, 176)",JPEG
+134151,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+134502,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+134618,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+135004,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+135095,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+135312,Mengetuk Jari,37,1,"(100, 176)",JPEG
+135316,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+135338,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+135385,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+135537,Mengetuk Jari,37,1,"(100, 132)",JPEG
+135622,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+135649,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+135659,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+135720,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+135721,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+135753,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+135769,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+135787,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+136198,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+136205,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+136268,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+136386,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+136547,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+136551,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+136614,Mengetuk Jari,37,1,"(100, 132)",JPEG
+136632,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+136694,Mengetuk Jari,37,1,"(100, 132)",JPEG
+136858,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+136911,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+137052,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+137059,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+137096,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+137278,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+137491,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+137531,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+137787,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+137789,Tidak ada gerakan,37,2,"(100, 100)",JPEG
+137832,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+137929,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+138296,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+138301,Mengetuk Jari,37,1,"(100, 176)",JPEG
+138311,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+138378,Mengetuk Jari,37,1,"(100, 176)",JPEG
+138418,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+138426,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+138453,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+138493,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+138680,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+138852,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+138931,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+138984,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+139119,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+139169,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+139284,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+139376,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+139425,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+139641,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+139861,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+139979,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+139997,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+140029,Mengetuk Jari,37,1,"(100, 132)",JPEG
+140259,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+140386,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+140566,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+140725,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+140963,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+141052,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+141249,Mengetuk Jari,37,1,"(100, 132)",JPEG
+141277,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+141372,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+141412,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+141421,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+141446,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+141550,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+141589,Mengetuk Jari,37,1,"(100, 132)",JPEG
+141706,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+141792,Mengetuk Jari,37,1,"(100, 176)",JPEG
+142157,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+142265,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+142390,Mengetuk Jari,37,1,"(100, 176)",JPEG
+142476,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+142748,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+142817,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+143066,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+143107,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+143153,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+143265,Mengetuk Jari,37,1,"(100, 176)",JPEG
+143471,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+143528,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+143577,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+144006,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+144279,Tidak ada gerakan,37,2,"(100, 132)",JPEG
+144342,Mengetuk Jari,37,1,"(100, 132)",JPEG
+144356,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
+144412,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+144511,Mengetuk Jari,37,1,"(100, 132)",JPEG
+144528,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+144564,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+144628,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+144654,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+145109,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+145120,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+145296,Mengetuk Jari,37,1,"(100, 176)",JPEG
+145322,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+145591,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+145718,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+145746,Mengetuk Jari,37,1,"(100, 176)",JPEG
+145757,Mengetuk Jari,37,1,"(100, 176)",JPEG
+145996,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+146010,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+146015,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+146106,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+146134,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+146436,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+146593,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+146625,Mengetuk Jari,37,1,"(100, 176)",JPEG
+146654,Mengetuk Jari,37,1,"(100, 176)",JPEG
+146667,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+146708,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+146797,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+146813,Menarik Tangan Masuk,37,3,"(100, 132)",JPEG
+146903,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+146981,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+147103,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+147150,Menarik Tangan Masuk,37,3,"(100, 176)",JPEG
+147160,Mendorong Tangan Menjauh,37,5,"(100, 176)",JPEG
+147295,Tidak ada gerakan,37,2,"(100, 176)",JPEG
+147325,Menarik Dua Jari Masuk,37,4,"(100, 176)",JPEG
+147598,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+147662,Mendorong Tangan Menjauh,37,5,"(100, 132)",JPEG
+147716,Mengetuk Jari,37,1,"(100, 176)",JPEG
+147748,Menarik Dua Jari Masuk,37,4,"(100, 132)",JPEG
